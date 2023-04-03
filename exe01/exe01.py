@@ -7,3 +7,5 @@ while K <indice:
     soma =  soma + K
 
 print(soma)
+
+resultado 91
